@@ -1,0 +1,92 @@
+.text {
+	margin-top: 20%;
+	padding: 70px 0;
+    border: 3px solid green;
+    text-align: center;
+    display: none;
+}
+
+.title, .summary, .version {
+	text-align: center;
+}
+
+.title {
+	font-size: 70px;
+}
+
+.summary {
+	font-size: 35px;
+}
+
+.version {
+	font-size: 20px;
+}
+
+.intro {
+	margin-top: 50px;
+	text-align: center;
+	display: none;
+}
+
+.info {
+	font-size: 25px;
+	margin-bottom: 5%;
+}
+
+.mugtitle {
+	font-size: 55px;
+}
+
+.home {
+	display: none;
+}
+
+.muglist {
+	padding: 100px 0;
+	height: 300px;
+}
+
+.person {
+	text-align: center;
+	font-size: 30px;
+}
+
+.one {
+	background-color: #2ecc71;
+}
+
+.two {
+	background-color: #f1c40f;
+}
+
+.three {
+	background-color: #8e44ad;
+}
+
+.four {
+	background-color: #27ae60;
+}
+
+.five {
+	background-color: #c0392b;
+}
+
+.six {
+	background-color: #f39c12
+}
+
+.seven {
+	background-color: #e74c3c;
+}
+
+.eight {
+	background-color: #34495e;
+}
+
+.nine {
+	background-color: #7f8c8d;
+}
+
+img {
+	height: 500px;
+}
